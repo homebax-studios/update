@@ -1,1 +1,15 @@
-
+{
+  "application": "Homebax Store",
+  "version": "0.0.0.2",
+  "updateTitle": "Nové UI",
+  "description": "Přidání oficiální verze",
+  "releaseDate": "2026-07-27",
+  "download": {
+    "win-x64": "https://example.com/browser-x64.zip",
+    "win-arm64": "https://example.com/browser-arm64.zip"
+  },
+  "devlog": "https://homebax.vercel.app/devlog#store",
+  "changelog": [
+    "Nové UI"
+  ]
+}
