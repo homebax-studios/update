@@ -1,0 +1,21 @@
+{
+    "version": "0.0.0.1",
+    "releaseDate": "2026-07-28",
+    "windows": {
+        "x64": {
+            "file": "HomebaxLauncher-x64.exe",
+            "url": "https://github.com/homebax-studios/update/",
+            "size": 0,
+            "sha256": "HASH"
+        },
+        "arm64": {
+            "file": "HomebaxLauncher-arm64.exe",
+            "url": "https://github.com/homebax-studios/update/",
+            "size": 0,
+            "sha256": "HASH"
+        }
+    },
+    "changes": [
+        "Vytvoření aplikace"
+    ]
+}
